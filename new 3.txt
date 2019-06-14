@@ -1,0 +1,140 @@
+categories
+Beauty
+Health
+Jewelry
+Kids
+MensClothing
+Shoes
+WomensClothing
+Camera
+Car Electronics CarElectronics
+Cell Phones CellPhones
+Video Games VideoGames
+Sports
+Stamp
+Bedding
+Crafts
+Housekeeping
+Kitchen
+Tools
+Outdoor
+
+
+
+allCategories = [
+	{
+		"name" : "Outdoor",
+		"id" : 0,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Outdoor.jpg"
+	},
+	{
+		"name" : "Beauty",
+		"id" : 1,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Beauty.jpg"
+	},
+	{
+		"name" : "Health",
+		"id" : 2,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Health.jpg"
+	},		{
+		"name" : "Jewelry",
+		"id" : 3,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Jewelry.jpg"
+	},
+	{
+		"name" : "Kids",
+		"id" : 4,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Kids.jpg"
+	},		{
+		"name" : "Men's Clothing",
+		"id" : 5,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/MensClothing.jpg"
+	},
+	{
+		"name" : "Shoes",
+		"id" : 6,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Shoes.jpg"
+	},
+	{
+		"name" : "Women's Clothing",
+		"id" : 7,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/WomensClothing.jpg"
+	},
+	{
+		"name" : "Camera",
+		"id" : 8,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Camera.jpg"
+	},
+	{
+		"name" : "Car Electronics",
+		"id" : 9,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/CarElectronics.jpg"
+	},
+	{
+		"name" : "Cell Phones",
+		"id" : 10,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/CellPhones.jpg"
+	},
+	{
+		"name" : "Video Games",
+		"id" : 11,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/VideoGames.jpg"
+	},
+	{
+		"name" : "Sports",
+		"id" : 12,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Sports.jpg"
+	},
+	{
+		"name" : "Stamp",
+		"id" : 13,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Stamp.jpg"
+	},
+	{
+		"name" : "Bedding",
+		"id" : 14,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Bedding.jpg"
+	},
+	{
+		"name" : "Crafts",
+		"id" : 15,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Crafts.jpg"
+	},
+	{
+		"name" : "Housekeeping",
+		"id" : 16,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Housekeeping.jpg"
+	},
+	{
+		"name" : "Kitchen",
+		"id" : 17,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Kitchen.jpg"
+	},
+	{
+		"name" : "Tools",
+		"id" : 18,
+		"parentId" : 0,
+		"image" : imagesURL+"images/categories/Tools.jpg"
+	}
+
+];
+
+
